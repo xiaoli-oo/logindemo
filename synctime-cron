@@ -1,0 +1,3 @@
+#* * * * * echo "Hell0 w0r1d for yOu" >> /var/log/cron.log
+
+0 */2 * * * root /usr/sbin/ntpdate -u ntp.aliyun.com
