@@ -21,6 +21,8 @@ django中间件：防抖/频繁请求限制
 
 ## 启动程序命令
 ```
+python manage.py runserver localhost:8000
+linux可以通过脚本启动：
 sh start.sh
 ```
 
